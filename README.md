@@ -1,4 +1,4 @@
-# Applied Electromagnetics project 2021
+# Applied Electromagnetism project 2021
 ## Scattering from dielectric objects with the FDTD Method
 Development of a 2D FDTD simulator/EM field solver in Python (Jupyter Notebook)
 - perform a full-wave simulation of the E and H fields of a line source
